@@ -1,0 +1,13 @@
+1. echo - Used to display a line test/string which is passed in as an argument Syntax : 
+   $echo [option] [String]
+
+   Tags - $echo -e : it enables the echo command to recognize the backlash escape 
+   sequences inside the argument
+
+2. rm - It helps to you delete files and directories.
+   $rm [option] [file]
+   
+   Tags - rm -i "<File name>"
+
+3. rmdir - To delete empty directories.
+   Tags  - rmdir --help

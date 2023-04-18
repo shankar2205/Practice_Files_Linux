@@ -1,0 +1,18 @@
+1. cd - Change deirectory, Syntax : $cd [options] [DIrectory]
+   Tags  -  cd .
+         -  cd . .
+2. ls  - To display a directory's Files and Folders
+   Syntax  -  $ls [options].. [files]..
+   Tags  -  ls -1
+3. cat - To read the contents of the one or more files and display
+   Syntax - $cat [options]..[filename(s)]..
+   Tags  -  cat -n
+4. touch - To Create a new file without any content inside it
+   Syntax  - $touch [option]..[filename]..
+5. mkdir - To Create new directories inside an existing working directory
+   Syntax - $mkdir [option]..<directory Name>
+   Tags - mkdir --help
+6. pwd  - To print current working directory
+   $pwd [options]
+   
+   
